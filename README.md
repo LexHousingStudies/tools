@@ -68,11 +68,14 @@ Create interactive, mult-media timelines
 
 ## Organizations/Groups to Watch
 
-### [Knight Lab](http://knightlab.northwestern.edu/) (Northwestern University)
-
-An extension of the Medill School of Journalism, Media, Integrated Marketing Communications and the McCormick School of Engineering & Applied Science at Northwestern University. They make great storytelling tools that are pretty easy to use.
-
 ### [DataMade](http://datamade.us/)
 
 A civic tech company that produces tools for interactive mapping and data manipulation. Many of their tools are open source.
 
+### [Knight Lab](http://knightlab.northwestern.edu/) (Northwestern University)
+
+An extension of the Medill School of Journalism, Media, Integrated Marketing Communications and the McCormick School of Engineering & Applied Science at Northwestern University. They make great storytelling tools that are pretty easy to use.
+
+### [Storybench](http://www.storybench.org/)
+
+Lots of tutorials and tips for data-driven storytelling. Based out of the Media Innovation Program at Northeastern University.
