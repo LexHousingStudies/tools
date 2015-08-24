@@ -22,6 +22,14 @@ A program that helps you clean up data
 
 A simple browser application for mashing up images, shapes and text
 
+### [GIMP](http://www.gimp.org/)
+
+A powerful, open source graphics editing program. Comparable to Adobe Photoshop.
+
+### [Inkscape](https://inkscape.org)
+
+A powerful, open source vector graphics editing program. Comparable to Adobe Illustrator.
+
 ## Mapping
 
 ### [CartoDB](https://cartodb.com/)
@@ -61,6 +69,10 @@ Create custome map tiles
 A side-by-side frame comparison tool for static images.
 
 ## Storytelling
+
+### [StoryMapJS](https://storymap.knightlab.com/)
+
+Create simple, interactive story maps with a basic Google Spreadsheet backend. Also has an image annotation mode!
 
 ### [TimelineJS](http://timeline.knightlab.com/)
 
