@@ -16,6 +16,10 @@ Create color schemes for data with lots of classes
 
 A program that helps you clean up data
 
+### [q](http://harelba.github.io/q/)
+
+A command line tool that lets you run SQL queries on a CSV
+
 ## Image Editing
 
 ### [Canva](https://www.canva.com/)
