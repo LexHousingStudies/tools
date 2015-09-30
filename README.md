@@ -56,10 +56,6 @@ Create vector tile styles
 
 An extension of Leaflet that allows you to access Mapbox services and, in some cases, simplifies some Leaflet logic. Lots of great examples in the documentation.
 
-### [mapsense.js](http://www.mapsense.co/developer/)
-
-D3.js based mapping library for creating interactive, data-driven maps
-
 ### [Tilemill](https://www.mapbox.com/tilemill/)
 
 Create custome map tiles
